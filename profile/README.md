@@ -4,6 +4,14 @@ Bem-vindo à organização **Coffee's Code**! ☕💻
 
 Somos apaixonados por tecnologia, código e, claro, um bom café. Nosso objetivo é criar e compartilhar projetos, colaborar com a comunidade e aprender juntos.
 
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coffee-s-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-s-Code&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
+
 ## Sobre Nós
 
 Na Coffee's Code, acreditamos que a tecnologia deve ser acessível, inclusiva e divertida. Seja você um desenvolvedor experiente ou alguém começando na programação, há um espaço para você aqui.
