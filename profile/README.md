@@ -8,9 +8,16 @@ Somos apaixonados por tecnologia, código e, claro, um bom café. Nosso objetivo
 
 Na Coffee's Code, acreditamos que a tecnologia deve ser acessível, inclusiva e divertida. Seja você um desenvolvedor experiente ou alguém começando na programação, há um espaço para você aqui.
 
-- **Missão**: Oferecer soluções criativas e inovadoras para problemas do mundo real.
-- **Visão**: Ser uma comunidade de referência para desenvolvedores apaixonados por tecnologia.
+- **Missão**: Oferecer soluções criativas e inovadoras para problemas reais;
+- **Visão**: Ser uma comunidade de referência para desenvolvedores apaixonados por tecnologia;
 - **Valores**: Colaboração, aprendizado contínuo e qualidade.
+
+## Colaboradores
+
+Conheça nossa equipe de desenvolvimento e integração de sistemas e programação.
+
+- **Pedro Henrique do Nascimento Urbano (CEO)**: Estudante, 18 anos - Técnico em Informática, futuro Juiz de Direito;
+- **Pedro Henrique Ferreira (COO)**: Estudante, 17 anos - Técnico em Informática, futuro Engenheiro de Software.
 
 <!--
 ## Projetos
