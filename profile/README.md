@@ -45,3 +45,7 @@ Tem alguma dúvida, sugestão ou apenas quer bater um papo? Entre em contato con
 
 - **Fundador**: pedrohnurbano@gmail.com
 - **Co-fundador**: pedro.276722@alunosatc.edu.br
+
+<hr>
+
+<i>Copyright © 2025 - CC - Coffee's Code - Todos os direitos reservados</i>
