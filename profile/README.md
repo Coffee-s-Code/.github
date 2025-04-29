@@ -20,7 +20,7 @@ Confira alguns dos nossos projetos em destaque:
 - [Projeto 1](#) - Uma breve descrição do projeto.
 - [Projeto 2](#) - Outro projeto interessante que estamos desenvolvendo.
 - [Projeto 3](#) - E muitos outros ainda estão por vir!
--->
+
 ## Como Contribuir
 
 Adoraríamos sua ajuda para tornar nossos projetos ainda melhores. Veja como você pode contribuir:
@@ -30,11 +30,11 @@ Adoraríamos sua ajuda para tornar nossos projetos ainda melhores. Veja como voc
 3. Envie um pull request com suas alterações.
 
 Não se esqueça de ler nossos [Guias de Contribuição](#) para mais informações.
+-->
 
 ## Entre em Contato
 
 Tem alguma dúvida, sugestão ou apenas quer bater um papo? Entre em contato conosco!
 
-- **E-mail**: contato@coffeescode.com
-- **Twitter**: [@CoffeesCode](#)
-- **LinkedIn**: [Coffee's Code](#)
+- **E-mail**: pedrohnurbano@gmail.com // Fundador
+- - **E-mail**: pedro.276722@alunosatc.edu.br // Co-fundador
