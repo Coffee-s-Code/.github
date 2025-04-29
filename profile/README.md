@@ -43,5 +43,5 @@ Não se esqueça de ler nossos [Guias de Contribuição](#) para mais informaç�
 
 Tem alguma dúvida, sugestão ou apenas quer bater um papo? Entre em contato conosco!
 
-- **Fundador**: pedrohnurbano@gmail.com // Fundador
-- **Co-fundador**: pedro.276722@alunosatc.edu.br // Co-fundador
+- **Fundador**: pedrohnurbano@gmail.com
+- **Co-fundador**: pedro.276722@alunosatc.edu.br
